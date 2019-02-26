@@ -41,7 +41,8 @@
     ?> 
   
 
-
+    <!-- You can use this CDN  -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script> -->
     <script src="chart.js/Chart.min.js"></script>
 
     <script>
